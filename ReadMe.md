@@ -48,7 +48,7 @@ The packages can also be found in _requirements.txt_
   - All subclasses are instantiated and executed for the funeral
     home datasets
 - main_np.py
-  - All subclasses is instantiated and executed for the newspaper
+  - All subclasses are instantiated and executed for the newspaper
     datasets
 - sftp.py
   - Contains the class to connect and download the files from the
