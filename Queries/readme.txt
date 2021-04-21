@@ -1,0 +1,1 @@
+All queries are written for SQL Server
