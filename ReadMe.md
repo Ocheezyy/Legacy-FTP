@@ -61,5 +61,3 @@ The packages can also be found in _requirements.txt_
   - Holds all log files
 - conn(Directory)
   - Contains encrypted connections strings
-
-[Back to top](#LegacyFTP)
